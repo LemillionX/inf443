@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl AW101_AW101_sha.001
+Ns 43.219304
+Ka 1.000000 1.000000 1.000000
+Kd 0.502000 0.502000 0.502000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd AW101\\textures\\AW101.png
